@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJS, NextJS, VueJS and Laravel**
 
-- 💬 Ask me about **Java, Angular and JS**
+- 💬 Ask me about **Java, Angular and JavaScript**
 
 - 📫 How to reach me **aliwerghemmi95@gmail.com**
 
